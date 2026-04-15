@@ -1,7 +1,6 @@
-## Hi there 👋
-
-I'm Rafael Bomfim, 17 years old and passionate about technology. 🚀
-Focused on growing as a developer and turning knowledge into real projects.
+Olá 👋
+Sou Rafael Bomfim, tenho 17 anos e sou apaixonado por tecnologia. 🚀
+Focado em evoluir como desenvolvedor e transformar conhecimento em projetos reais."
 
 📚 Currently
 
