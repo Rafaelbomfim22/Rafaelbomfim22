@@ -64,14 +64,6 @@
 
 ---
 
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rafaelbomfim22&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ## 🚀 Projetos em Destaque
 
 🔹 **[VYNCE](https://github.com/Rafaelbomfim22/vynce)** — Landing page de moda com design premium · `HTML` `Tailwind CSS`
