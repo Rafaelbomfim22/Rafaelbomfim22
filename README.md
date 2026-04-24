@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, sou Rafael Bomfim</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&size=26&center=true&vCenter=true&width=800&lines=Desenvolvedor+Front-end;JavaScript+%7C+React+%7C+HTML5+%7C+CSS3;Aprendendo+Node.js;Criando+interfaces+bonitas+e+funcionais" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&size=26&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;JavaScript+%7C+React+%7C+HTML5+%7C+CSS3;Node.js+%7C+Docker;Criando+interfaces+bonitas+e+funcionais" />
 </p>
 
 <p align="center">
@@ -12,13 +12,14 @@
 
 ## 💻 Sobre mim
 
-🔥 Desenvolvedor Front-end apaixonado por criar **interfaces bonitas, responsivas e funcionais**
+🔥 Desenvolvedor **Full Stack** apaixonado por criar **interfaces bonitas, responsivas e funcionais**
 
 💡 Focado em:
 
 * Criação de interfaces intuitivas com **HTML, CSS e JavaScript**
 * Componentização moderna com **React**
-* Evolução para **Full Stack** com Node.js
+* Back-end e APIs com **Node.js**
+* Ambientes e containers com **Docker**
 * Código limpo, semântico e boa usabilidade
 
 📍 Santana de Parnaíba, SP — Disponível para trabalho **remoto, híbrido ou presencial**
