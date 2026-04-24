@@ -50,8 +50,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rafaelbomfim22&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelbomfim22&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rafaelbomfim22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelbomfim22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"/>
 </p>
 
 ---
@@ -74,11 +74,11 @@
 
 ## 🚀 Projetos em Destaque
 
-🔹 **[VYNCE](https://github.com/Rafaelbomfim22)** — Landing page de moda com design premium · `HTML` `Tailwind CSS`
+🔹 **[VYNCE](https://github.com/Rafaelbomfim22/vynce)** — Landing page de moda com design premium · `HTML` `Tailwind CSS`
 
-🔹 **[Convert Money](https://github.com/Rafaelbomfim22)** — Conversor de moedas em tempo real · `HTML` `CSS` `JavaScript`
+🔹 **[Convert Money](https://github.com/Rafaelbomfim22/convert-money)** — Conversor de moedas em tempo real · `HTML` `CSS` `JavaScript`
 
-🔹 **[Cadastro de Usuários](https://github.com/Rafaelbomfim22)** — App com roteamento e consumo de API · `React` `Axios` `Styled Components`
+🔹 **[Cadastro de Usuários](https://github.com/Rafaelbomfim22/devclub-cadastro-usuarios)** — App com roteamento e consumo de API · `React` `Axios` `Styled Components`
 
 ---
 
