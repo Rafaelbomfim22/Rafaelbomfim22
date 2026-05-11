@@ -20,7 +20,7 @@
 * Componentização moderna com **React**
 * Back-end e APIs com **Node.js**
 * Ambientes e containers com **Docker**
-* Banco de dados com **PostgreSQL**
+* Banco de dados com **PostgreSQL** e **MongoDB**
 * Automações e integrações entre sistemas com **n8n**
 * Código limpo, semântico e boa usabilidade
 
@@ -45,7 +45,7 @@
 ### 🗄️ Banco de Dados
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
 ### 🤖 Automação
