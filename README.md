@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, sou Rafael Bomfim</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&size=26&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;JavaScript+%7C+React+%7C+HTML5+%7C+CSS3;Node.js+%7C+Docker;Criando+interfaces+bonitas+e+funcionais" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&size=26&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;JavaScript+%7C+React+%7C+HTML5+%7C+CSS3;Node.js+%7C+Docker+%7C+n8n;Automa%C3%A7%C3%B5es+e+integra%C3%A7%C3%B5es+com+n8n;Criando+interfaces+bonitas+e+funcionais" />
 </p>
 
 <p align="center">
@@ -20,6 +20,7 @@
 * Componentização moderna com **React**
 * Back-end e APIs com **Node.js**
 * Ambientes e containers com **Docker**
+* Automações e integrações entre sistemas com **n8n**
 * Código limpo, semântico e boa usabilidade
 
 📍 Santana de Parnaíba, SP — Disponível para trabalho **remoto, híbrido ou presencial**
@@ -38,6 +39,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,docker" />
+</p>
+
+### 🤖 Automação
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ### 🛠️ Ferramentas
@@ -93,6 +100,7 @@
 
 ✔️ Interfaces responsivas e acessíveis\
 ✔️ Atenção aos detalhes de design e UX\
+✔️ Experiência com automações e integrações via n8n\
 ✔️ Aprendizado contínuo e foco em evolução\
 ✔️ Experiência prática com projetos reais\
 ✔️ Colaborativo e comprometido com resultados
